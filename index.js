@@ -1,4 +1,4 @@
-var litecore = require('litecore-lib');
-litecore.P2P = require('./lib');
+var einrcore = require('einrcore-lib');
+einrcore.P2P = require('./lib');
 
-module.exports = litecore.P2P;
+module.exports = einrcore.P2P;

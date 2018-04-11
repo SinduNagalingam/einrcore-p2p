@@ -5,8 +5,8 @@ The quickest way to get connected is to run the following:
 
 ```javascript
 
-var Pool = require('litecore-p2p').Pool;
-var Networks = require('litecore-lib').Networks;
+var Pool = require('einrcore-p2p').Pool;
+var Networks = require('einrcore-lib').Networks;
 
 var pool = new Pool({network: Networks.livenet});
 

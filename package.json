@@ -1,7 +1,7 @@
 {
-  "name": "litecore-p2p",
+  "name": "einrcore-p2p",
   "version": "1.1.2",
-  "description": "Interface to the litecoin P2P network for litecore",
+  "description": "Interface to the EINR P2P network for einrcore",
   "author": "BitPay <dev@bitpay.com>",
   "main": "index.js",
   "scripts": {
@@ -48,12 +48,12 @@
     }
   ],
   "keywords": [
-    "litecoin",
-    "litecore"
+    "EINR",
+    "einrcore"
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/litecoin-project/litecore-p2p.git"
+    "url": "https://github.com/SinduNagalingam/einrcore-p2p.git"
   },
   "dependencies": {
     "litecore-lib": "^0.13.19",
@@ -62,7 +62,7 @@
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
-    "litecore-build": "git://github.com/litecoin-project/litecore-build.git",
+    "einrcore-build": "git://github.com/SinduNagalingam/einrcore-build.git",
     "brfs": "^1.2.0",
     "chai": "~1.10.0",
     "gulp": "^3.8.10",
