@@ -56,9 +56,9 @@
     "url": "https://github.com/SinduNagalingam/einrcore-p2p.git"
   },
   "dependencies": {
-    "litecore-lib": "^0.13.19",
+    "einrcore-lib": "^0.13.19",
     "bloom-filter": "^0.2.0",
-    "buffers": "bitpay/node-buffers#v0.1.2-bitpay",
+    "buffers": "SinduNagalingam/node-buffers#v0.1.2-bitpay",
     "socks5-client": "^0.3.6"
   },
   "devDependencies": {
